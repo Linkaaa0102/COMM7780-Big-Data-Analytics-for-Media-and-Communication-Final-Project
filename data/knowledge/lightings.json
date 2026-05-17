@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lighting-golden-hour-001",
+    "platform": "generic",
+    "category": "lighting",
+    "value": "黄金时刻，暖金色阳光",
+    "en_value": "golden hour, warm golden sunlight",
+    "description": "日落或日出时分的柔和暖光",
+    "tags": ["自然光", "温暖", "户外"],
+    "source": "整理自多个官方文档"
+  },
+  {
+    "id": "lighting-stage-001",
+    "platform": "generic",
+    "category": "lighting",
+    "value": "舞台灯光，追光效果",
+    "en_value": "stage lighting, spotlight effect",
+    "description": "聚光灯聚焦在主体上",
+    "tags": ["人工光", "表演", "舞台"],
+    "source": "整理自多个官方文档"
+  },
+  {
+    "id": "lighting-neon-001",
+    "platform": "generic",
+    "category": "lighting",
+    "value": "霓虹灯光，高对比度",
+    "en_value": "neon lighting, high contrast",
+    "description": "赛博朋克风格的霓虹灯光",
+    "tags": ["人工光", "赛博朋克", "夜景"],
+    "source": "整理自多个官方文档"
+  },
+  {
+    "id": "lighting-studio-001",
+    "platform": "generic",
+    "category": "lighting",
+    "value": "专业影棚灯光，柔和均匀",
+    "en_value": "professional studio lighting, soft and even",
+    "description": "三点布光，柔和均匀的影棚灯光",
+    "tags": ["人工光", "专业", "影棚"],
+    "source": "整理自多个官方文档"
+  },
+  {
+    "id": "lighting-candlelight-001",
+    "platform": "generic",
+    "category": "lighting",
+    "value": "烛光，温暖摇曳",
+    "en_value": "candlelight, warm and flickering",
+    "description": "温馨浪漫的烛光",
+    "tags": ["氛围光", "浪漫", "室内"],
+    "source": "整理自多个官方文档"
+  },
+  {
+    "id": "lighting-blue-hour-001",
+    "platform": "generic",
+    "category": "lighting",
+    "value": "蓝色时刻，冷色调",
+    "en_value": "blue hour, cool tones",
+    "description": "黄昏或黎明时的蓝色调光线",
+    "tags": ["自然光", "冷调", "氛围"],
+    "source": "Seedance官方博客"
+  }
+]

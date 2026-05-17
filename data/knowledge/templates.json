@@ -1,0 +1,54 @@
+[
+  {
+    "id": "template-mv-dance-001",
+    "platform": "generic",
+    "title": "MV舞蹈场景通用模板",
+    "template": "{subject}在{scene}{action}，{camera}，{lighting}，{style}",
+    "placeholders": {
+      "subject": "年轻女性舞者",
+      "scene": "舞台上",
+      "action": "优雅地跳舞",
+      "camera": "中景镜头，缓慢环绕",
+      "lighting": "舞台灯光，追光效果",
+      "style": "电影级质感，4K高清"
+    },
+    "example": "年轻女性舞者在舞台上优雅地跳舞，中景镜头，缓慢环绕，舞台灯光，追光效果，电影级质感，4K高清",
+    "tags": ["MV", "舞蹈", "通用"],
+    "source": "整理自即梦、Seedance官方示例"
+  },
+  {
+    "id": "template-jimeng-basic-001",
+    "platform": "jimeng",
+    "title": "即梦万能公式模板",
+    "template": "{subject}，{details}，{action}，{environment}，{style}，{lighting}，{quality}",
+    "placeholders": {
+      "subject": "主体",
+      "details": "细节描述",
+      "action": "动作",
+      "environment": "环境",
+      "style": "风格",
+      "lighting": "光影",
+      "quality": "画质"
+    },
+    "example": "25岁日系女生，齐刘海黑长直，淡妆，穿米色针织衫+牛仔裙，站在樱花树下微笑，双手轻扶花瓣，微风拂动发丝，春日午后，阳光透过树叶洒下斑驳光影，浅景深背景虚化，清新自然风，4K高清，暖色调，五官精致，皮肤细腻",
+    "tags": ["即梦", "万能公式"],
+    "source": "即梦官方万能公式"
+  },
+  {
+    "id": "template-seedance-cinematic-001",
+    "platform": "seedance",
+    "title": "Seedance电影级单镜头结构",
+    "template": "{camera}, {subject} {action} in {environment}, {lighting}, {style}",
+    "placeholders": {
+      "camera": "镜头类型和运动",
+      "subject": "主体",
+      "action": "动作/表演",
+      "environment": "场景/氛围",
+      "lighting": "灯光",
+      "style": "视觉风格"
+    },
+    "example": "Slow dolly push forward, a woman in a red coat walking through a misty autumn forest, leaves falling around her, golden diffused morning light, cinematic color grade, shallow depth of field",
+    "tags": ["Seedance", "电影级", "英文"],
+    "source": "Seedance官方提示词指南"
+  }
+]

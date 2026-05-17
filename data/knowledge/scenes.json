@@ -1,0 +1,72 @@
+[
+  {
+    "id": "scene-beach-001",
+    "platform": "generic",
+    "category": "scene",
+    "value": "海边沙滩",
+    "en_value": "beach",
+    "variations": [
+      "日落时分的海边沙滩",
+      "清晨的海滩",
+      "碧海蓝天的热带海滩"
+    ],
+    "tags": ["户外", "海边", "自然"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "scene-stage-001",
+    "platform": "generic",
+    "category": "scene",
+    "value": "舞台",
+    "en_value": "stage",
+    "variations": [
+      "灯光璀璨的演唱会舞台",
+      "聚光灯下的表演舞台",
+      "霓虹闪烁的夜店舞台"
+    ],
+    "tags": ["室内", "表演", "MV"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "scene-city-night-001",
+    "platform": "generic",
+    "category": "scene",
+    "value": "城市夜景",
+    "en_value": "city nightscape",
+    "variations": [
+      "霓虹闪烁的赛博朋克城市夜景",
+      "高楼林立的都市夜景",
+      "雨夜的城市街道"
+    ],
+    "tags": ["城市", "夜景", "现代"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "scene-forest-001",
+    "platform": "generic",
+    "category": "scene",
+    "value": "森林",
+    "en_value": "forest",
+    "variations": [
+      "阳光透过树叶的神秘森林",
+      "雾气缭绕的古老森林",
+      "秋日金色的森林"
+    ],
+    "tags": ["户外", "自然", "森林"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "scene-studio-001",
+    "platform": "generic",
+    "category": "scene",
+    "value": "摄影棚",
+    "en_value": "studio",
+    "variations": [
+      "专业灯光的摄影棚",
+      "纯色背景的工作室",
+      "极简风格的拍摄棚"
+    ],
+    "tags": ["室内", "专业", "工作室"],
+    "source": "整理自即梦、Seedance官方文档"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "subject-female-dancer-001",
+    "platform": "generic",
+    "category": "subject",
+    "value": "年轻女性舞者",
+    "en_value": "young female dancer",
+    "variations": [
+      "穿着现代舞服装的年轻女性舞者",
+      "优雅的芭蕾舞演员",
+      "活力四射的街舞女孩",
+      "身着飘逸连衣裙的女舞者"
+    ],
+    "tags": ["人物", "女性", "舞蹈", "MV"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "subject-male-dancer-001",
+    "platform": "generic",
+    "category": "subject",
+    "value": "年轻男性舞者",
+    "en_value": "young male dancer",
+    "variations": [
+      "帅气的街舞男孩",
+      "优雅的男芭蕾舞演员",
+      "充满力量感的男舞者"
+    ],
+    "tags": ["人物", "男性", "舞蹈", "MV"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "subject-singer-001",
+    "platform": "generic",
+    "category": "subject",
+    "value": "歌手",
+    "en_value": "singer",
+    "variations": [
+      "手持麦克风的女歌手",
+      "在舞台上唱歌的男歌手",
+      "深情演唱的音乐人"
+    ],
+    "tags": ["人物", "歌手", "MV"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "subject-couple-001",
+    "platform": "generic",
+    "category": "subject",
+    "value": "一对情侣",
+    "en_value": "a couple",
+    "variations": [
+      "相拥的年轻情侣",
+      "手牵手漫步的恋人"
+    ],
+    "tags": ["人物", "情侣", "浪漫", "MV"],
+    "source": "整理自即梦、Seedance官方文档"
+  }
+]

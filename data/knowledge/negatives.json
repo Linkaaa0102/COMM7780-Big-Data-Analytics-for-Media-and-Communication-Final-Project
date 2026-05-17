@@ -1,0 +1,32 @@
+[
+  {
+    "id": "negative-basic-001",
+    "platform": "generic",
+    "category": "negative",
+    "value": "模糊，低清，畸形，扭曲，水印，logo，杂乱背景，过曝，欠曝，多余肢体，五官变形",
+    "en_value": "blurry, low quality, deformed, distorted, watermark, logo, cluttered background, overexposed, underexposed, extra limbs, distorted features",
+    "priority": 10,
+    "tags": ["通用", "基础"],
+    "source": "即梦官方推荐"
+  },
+  {
+    "id": "negative-portrait-001",
+    "platform": "generic",
+    "category": "negative",
+    "value": "面部模糊，五官畸形，手部畸形，手指数量不对，眼睛不对称",
+    "en_value": "facial blur, deformed facial features, deformed hands, wrong number of fingers, asymmetrical eyes",
+    "priority": 8,
+    "tags": ["人物", "肖像"],
+    "source": "整理自多个官方文档"
+  },
+  {
+    "id": "negative-text-001",
+    "platform": "generic",
+    "category": "negative",
+    "value": "画面中出现文字，乱码文字，变形文字",
+    "en_value": "text in frame, garbled text, distorted text",
+    "priority": 5,
+    "tags": ["文字", "通用"],
+    "source": "Sora官方文档注意事项"
+  }
+]

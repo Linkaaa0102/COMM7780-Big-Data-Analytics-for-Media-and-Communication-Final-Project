@@ -1,0 +1,72 @@
+[
+  {
+    "id": "style-cinematic-001",
+    "platform": "generic",
+    "category": "style",
+    "value": "电影级质感",
+    "en_value": "cinematic quality",
+    "variations": [
+      "电影级质感，浅景深",
+      "电影级灯光，宽画幅"
+    ],
+    "tags": ["画质", "电影感", "通用"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "style-4k-high-res-001",
+    "platform": "generic",
+    "category": "style",
+    "value": "4K高清，细节丰富",
+    "en_value": "4K high resolution, rich details",
+    "tags": ["画质", "高清"],
+    "source": "整理自即梦、Seedance官方文档"
+  },
+  {
+    "id": "style-film-grain-001",
+    "platform": "generic",
+    "category": "style",
+    "value": "胶片颗粒感",
+    "en_value": "film grain",
+    "variations": [
+      "35mm胶片颗粒感",
+      "复古8mm胶片质感"
+    ],
+    "tags": ["质感", "复古", "胶片"],
+    "source": "Seedance官方博客"
+  },
+  {
+    "id": "style-cyberpunk-001",
+    "platform": "generic",
+    "category": "style",
+    "value": "赛博朋克风格",
+    "en_value": "cyberpunk style",
+    "variations": [
+      "霓虹闪烁的赛博朋克风格",
+      "未来科技感，赛博朋克美学"
+    ],
+    "tags": ["风格", "科幻", "现代"],
+    "source": "整理自多个官方文档"
+  },
+  {
+    "id": "style-anime-001",
+    "platform": "generic",
+    "category": "style",
+    "value": "动漫风格",
+    "en_value": "anime style",
+    "variations": [
+      "日系动漫风格",
+      "新海诚风格"
+    ],
+    "tags": ["风格", "动漫"],
+    "source": "整理自多个官方文档"
+  },
+  {
+    "id": "style-documentary-001",
+    "platform": "generic",
+    "category": "style",
+    "value": "纪录片风格",
+    "en_value": "documentary style",
+    "tags": ["风格", "纪实", "真实"],
+    "source": "Runway官方指南"
+  }
+]

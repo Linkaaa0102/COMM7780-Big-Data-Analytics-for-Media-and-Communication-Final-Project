@@ -1,0 +1,82 @@
+[
+  {
+    "id": "camera-medium-shot-001",
+    "platform": "generic",
+    "category": "camera",
+    "value": "中景镜头",
+    "en_value": "medium shot",
+    "description": "从腰部以上展示主体，适合对话和表演",
+    "tags": ["景别", "基础"],
+    "source": "Seedance官方提示词指南"
+  },
+  {
+    "id": "camera-close-up-001",
+    "platform": "generic",
+    "category": "camera",
+    "value": "特写镜头",
+    "en_value": "close-up shot",
+    "description": "聚焦面部或细节，完美呈现情感",
+    "tags": ["景别", "情感"],
+    "source": "Seedance官方提示词指南"
+  },
+  {
+    "id": "camera-wide-shot-001",
+    "platform": "generic",
+    "category": "camera",
+    "value": "全景镜头",
+    "en_value": "wide shot",
+    "description": "展示完整场景和环境",
+    "tags": ["景别", "环境"],
+    "source": "Seedance官方提示词指南"
+  },
+  {
+    "id": "camera-dolly-forward-001",
+    "platform": "generic",
+    "category": "camera",
+    "value": "镜头缓慢向前推进",
+    "en_value": "slow dolly forward",
+    "description": "摄像机平稳地向主体移动，营造沉浸感",
+    "tags": ["运镜", "推进"],
+    "source": "Seedance官方提示词指南"
+  },
+  {
+    "id": "camera-dolly-back-001",
+    "platform": "generic",
+    "category": "camera",
+    "value": "镜头向后拉远",
+    "en_value": "slow dolly back",
+    "description": "摄像机平稳地向后拉远，展现更多环境",
+    "tags": ["运镜", "拉远"],
+    "source": "Seedance官方提示词指南"
+  },
+  {
+    "id": "camera-orbiting-001",
+    "platform": "generic",
+    "category": "camera",
+    "value": "镜头环绕主体",
+    "en_value": "orbit around the subject",
+    "description": "摄像机围绕主体旋转，全方位展示",
+    "tags": ["运镜", "环绕"],
+    "source": "Seedance官方提示词指南"
+  },
+  {
+    "id": "camera-tracking-001",
+    "platform": "generic",
+    "category": "camera",
+    "value": "跟随镜头",
+    "en_value": "tracking shot",
+    "description": "摄像机横向跟随移动的主体",
+    "tags": ["运镜", "跟随"],
+    "source": "Seedance官方提示词指南"
+  },
+  {
+    "id": "camera-handheld-001",
+    "platform": "generic",
+    "category": "camera",
+    "value": "手持镜头，轻微抖动",
+    "en_value": "handheld, slight camera shake",
+    "description": "轻微抖动，带来纪录片/第一视角感",
+    "tags": ["运镜", "纪实感"],
+    "source": "Runway官方指南"
+  }
+]
